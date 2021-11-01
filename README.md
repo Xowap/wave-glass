@@ -2,7 +2,7 @@
 
 A simple wavy-looking glass.
 
-![preview](./waveglass.png)
+![preview](./doc/waveglass.png)
 
 You need to print it on some filaments that are food-safe. Not sure what makes
 something food-safe however I'm using
